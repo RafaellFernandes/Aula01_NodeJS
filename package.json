@@ -1,0 +1,15 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "description": "Aula 01 - dia 26/02/2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u001b[2~https://github.com/RafaellFernandes/NodeJS_Aula_01.git"
+  },
+  "author": "Rafael",
+  "license": "ISC"
+}
